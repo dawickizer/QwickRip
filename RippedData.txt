@@ -1,0 +1,503 @@
+Summary Data:
+------------------------------------
+
+Banks:
+------
+Bank of America 4591
+HSBC 1560
+Standard Chartered 908
+Standard Chartered Bank 858
+Comerica Bank 817
+ING Bank 724
+Wells Fargo Bank 656
+Bank of New York 490
+Barclays 461
+Commercial Bank 369
+Barclays Bank 348
+Bank of China 344
+JP Morgan Chase 325
+HSBC Bank 310
+Citizens Bank 304
+Capital Bank 282
+HSBC Hong Kong 255
+Hang Seng Bank 243
+Barclays Bank PLC 225
+Regions Bank 216
+Lloyds Bank 199
+SunTrust 198
+Union Bank 186
+Bank of the West 183
+City National Bank 163
+Lloyds Bank PLC 150
+FirstMerit 118
+First National Bank 112
+Hang Seng Bank Limited 106
+Bank of Communications 89
+KeyBank 86
+TSB Bank 79
+Community Bank 79
+Washington Trust Bank 78
+First Bank 78
+Fifth Third Bank 74
+Compass Bank 72
+ING Group 69
+United Bank 65
+TSB Bank PLC 61
+Postal Savings Bank of China 59
+China Construction Bank 57
+Harris Bank 53
+Ping An Bank 53
+Industrial and Commercial Bank of China 53
+Bank of Scotland 52
+Unibank 50
+Agricultural Bank of China 46
+China Merchants Bank 45
+Royal Bank of Scotland 45
+CITIC Bank 38
+Banco Santander 35
+Bankers Trust 32
+Tatra Banka 32
+China Citic Bank 32
+Federal Savings Bank 30
+Shanghai Pudong Development 29
+Industrial Bank of Korea 29
+Morgan Stanley 29
+Central Bank 27
+Lloyds TSB Bank PLC 25
+Royal Bank of Canada 25
+Shanghai Pudong Development Bank 24
+Bank & Trust Company 23
+Bank of Commerce 23
+Shinhan Bank 23
+Commerce Bank 23
+Commonwealth Bank 23
+ICBC 22
+United Overseas Bank 22
+Kookmin Bank 22
+Bank of Montreal 21
+AmBank 21
+Commonwealth Bank of Australia 21
+Bank of China Limited 20
+China Construction Bank Corporation 20
+Allied Irish Bank 20
+Bank of East Asia 19
+Zions Bank 18
+Premier Bank 18
+TBC 17
+BNP Paribas 17
+OTP Bank 17
+Hang Seng Bank, Limited 17
+Security Bank 17
+Woori Bank 17
+BancorpSouth 16
+National Commercial Bank 16
+Merrill Lynch 16
+Citi Private Bank 16
+Frost Bank 16
+TBC Bank 15
+Bank of Guam 15
+NatWest Bank 15
+Credit Suisse 15
+M&T Bank 14
+Valley Bank 14
+Bangkok Bank Public Company Limited 14
+Heritage Bank 14
+OTP Bank PLC 13
+Banco Popular 13
+The Agricultural Bank of China 13
+Standard Chartered Bank Malaysia 13
+Mashreq Bank 12
+Scotiabank 12
+China CITIC Bank International 12
+MidFirst Bank 12
+First Republic Bank 12
+Provident Bank 12
+Bank Polska Kasa Opieki SA 11
+Bank of Hawaii 11
+Bank of India 11
+Eastern Bank 11
+First Community Bank 11
+Columbia Bank 11
+Grand Bank 11
+Banco Mercantil 10
+Banco Mercantil Del Norte 10
+Bank of Oklahoma 10
+National Bank of Commerce 10
+Siam Commercial Bank PCL 10
+First National Bank of Texas 10
+Alberta Treasury Branches 10
+Pacific Bank 9
+Bank of Arizona 9
+Bank of Communications, Co. LTD 9
+Pinnacle Bank 9
+First Bank & Trust 9
+First Federal Savings Bank 9
+County Bank 9
+BBVA Bancomer 8
+Raiffeisen Bank ZRT 8
+Cambridge Savings Bank 8
+Peoples Bank 8
+Charter Bank 8
+Firstrust Bank 8
+Skandinaviska Enskilda Banken 8
+Commerzbank 8
+Guaranty Bank 8
+DBS Bank Hong Kong 7
+RHB Bank Berhad 7
+PT Bank Permata TBK 7
+Banamex 7
+Bank of Communications Co LTD 7
+Bank of Edwardsville 7
+Bankinter 7
+Abu Dhabi Commercial Bank 7
+Shanghai Commercial and Savings Bank 7
+FirstBank 7
+Alliance Bank 7
+Ulster Bank 7
+Emirates NBD Bank PJSC 7
+Societe Generale 7
+Sumitomo Mitsui Banking Corporation 7
+Byblos Bank 7
+DBS Bank (Hong Kong) Limited 6
+Valley National Bank 6
+Canadian Imperial Bank of Commerce 6
+Chemical Bank 6
+Simmons First National Bank 6
+First State Bank 6
+Johnson International 6
+Commerzbank AG 6
+Montecito Bank & Trust 6
+Sovereign Bank 6
+E*Trade Financial 5
+RCB Bank 5
+MKB Bank 5
+HSBC - Hong Kong 5
+Banco Bilbao Vizcaya 5
+Banco Popular Espanol 5
+Bank of Baroda 5
+Bank of Western Australia 5
+Bank of the Philippine Islands 5
+Barclays Capital 5
+Centennial Bank 5
+Century Bank 5
+Republic Bank & Trust Company 5
+Deutsche Bank AG 5
+First Federal Bank 5
+Citizens National Bank 5
+Albank 5
+1st Source Bank 5
+State Bank of India 5
+Gulf Bank 5
+Sunflower Bank 5
+Turkiye Garanti Bankasi A.S. 5
+Turkiye Is Bankasi 5
+BBVA Bancomer, S.A. 4
+CTBC BANK CO., LTD 4
+Canada Trust 4
+Canadian Western Bank 4
+Banco Nacional de Costa Rica 4
+Bank of Jordan 4
+Park National Bank 4
+Farmers Bank 4
+National City Bank 4
+Nationwide Bank 4
+Mechanics Bank 4
+Ceskoslovenska Obchodni Banka, A.S. 4
+Seto Shinkin Bank 4
+City National Bank of New Jersey 4
+Intesa Sanpaolo 4
+Goldman Sachs 4
+Dollar Bank 4
+Community First Bank 4
+Korea Exchange Bank 4
+Toronto-Dominion Bank 4
+State Bank and Trust 4
+K AND H BANK ZRT 3
+ABSA Bank 3
+UCO Bank 3
+AK Bank 3
+Habib Bank 3
+Banco de Credito 3
+Bank United 3
+Bank of New Zealand 3
+Bank of the Cascades 3
+Bank of the Ozarks 3
+Farmers & Merchants Bank 3
+National Bank of Greece 3
+National Westminister Bank PLC 3
+Westpac Bank 3
+Westpac Banking Corp 3
+Texas Bank 3
+Affin Bank 3
+Shanghai Commercial Bank 3
+China Citic Bank International Limited 3
+Wintrust Financial Corporation 3
+City National Bank of Florida 3
+Amarillo National Bank 3
+Indian Bank 3
+United Coconut Planters Bank 3
+Enterprise Bank and Trust Company 3
+Community Savings 3
+Community Savings Bank 3
+Noor Bank P.J.S.C. 3
+Corporation Bank 3
+Arab Banking Corporation 3
+Erste Bank Hungary 3
+Associated Banc-Corp 3
+Stadtsparkasse 3
+O'Bannon Bank 2
+GE Money Bank 2
+ANZ Banking Group 2
+Callaway Bank 2
+Banco Itau 2
+Banco Nacional de Mexico 2
+Landmark Bank 2
+Hang Seng Bank Ltd. 2
+Bank Sinopac 2
+Bank of Huzhou Co Ltd 2
+Manufacturers Bank 2
+National Australia Bank Limited 2
+National Bank of California 2
+Central Pacific Bank 2
+Peoples Bank and Trust 2
+Chinese Banking Corporation 2
+Shinsei Bank 2
+Aichi Bank 2
+First American Bank 2
+Glacier Bank 2
+American National Bank 2
+Indusind Bank Limited 2
+Union Bank of California 2
+Co-operative Bank 2
+Tokuda Bank 2
+Jordan National Bank 2
+North Shore Bank 2
+Provident Savings Bank 2
+Hua Xia Bank 2
+F&M Bank 1
+RAK Bank 1
+SBERBANK 1
+SBI Sumishin Net Bank 1
+BNP PARIBAS BANK POLSKA S.A. 1
+Hachijuni Bank 1
+Eagle Bank 1
+Eagle Bank and Trust 1
+Dah Sing Financial Centre 1
+Taipel Fubon Commercial Bank 1
+Malayan Banking Berhad (Maybank) 1
+Walden Savings Bank 1
+Salem Five Cents Savings Bank 1
+Wallis State Bank 1
+Family Bank 1
+Sampath Bank 1
+San Diego National Bank 1
+Banca Comerciala Romana 1
+Land Bank of the Philippines 1
+Hang Seng Bank Hong Kong 1
+Bangkok Bank Public Company Ltd 1
+Bank Leumi le-Israel 1
+Bank Midwest 1
+Bank of Glen Burnie 1
+Bank of Ireland 1
+Capital City Bank 1
+Kasithbk 1
+Watertown Savings Bank 1
+Baylake Bank 1
+Access Bank PLC 1
+Peapack-Gladstone Bank 1
+Security State Bank 1
+Nedbank 1
+Mellon Bank 1
+Demerara Bank Limited 1
+NetBank 1
+Metro Bank PLC 1
+Deutsche Bundesbank 1
+Texas First Bank 1
+Shanghai Pudong Development Bank (China) 1
+China Merchant Bank 1
+ChinaTrust Commercial Bank 1
+Liberty Bank 1
+Liberty National Bank 1
+Liberty Savings Bank 1
+Ping An Bank Co. LTD 1
+Piraeus Bank 1
+First Citizens Bank 1
+First Direct 1
+First Fidelity Bank 1
+First National Bank of Omaha 1
+First National Community Bank 1
+First Savings Bank 1
+First Southern Bank 1
+Citizens Tri-County Bank 1
+Five Cents Savings Bank 1
+Riverview Savings Bank 1
+Indian Overseas Bank 1
+Union State Bank 1
+University National Bank 1
+Commercial Bank of Qatar 1
+Hong Kong & Shanghai Banking Corp Ltd 1
+Consumers National Bank 1
+Los Angeles National Bank 1
+Country Club Bank 1
+Credit Agricole 1
+Credit Lyonnais 1
+Tri Counties Bank 1
+Prime Bank 1
+Crown Bank 1
+Israel Discount Bank 1
+Punjab National Bank 1
+Swedbank AB 1
+
+Countries:
+----------
+Hong Kong 1538
+China 1490
+United Kingdom 419
+United States 325
+Malaysia 322
+Niger 308
+Nigeria 294
+Oman 294
+Poland 289
+India 247
+Korea 233
+United Arab Emirates 191
+Mexico 190
+Singapore 188
+Canada 168
+Spain 141
+Philippines 136
+Japan 129
+Georgia 126
+AUSTRALIA 120
+Taiwan 120
+Indonesia 119
+Thailand 109
+Hungary 101
+Turkey 95
+Jordan 90
+South Africa 86
+Egypt 77
+Ghana 71
+South Korea 71
+Vietnam 66
+Mali 64
+Germany 55
+Lebanon 52
+Brazil 51
+Romania 50
+France 50
+Kenya 49
+Panama 46
+Italy 46
+Slovakia 43
+Switzerland 40
+Venezuela 39
+Iran 37
+Saudi Arabia 35
+Chad 35
+Kuwait 35
+Ireland 33
+Norway 32
+Russia 32
+Cyprus 32
+Peru 31
+Guatemala 31
+Austria 29
+Qatar 28
+Sweden 25
+Czech Republic 24
+Cambodia 23
+Netherlands 23
+New Zealand 23
+Israel 21
+Dominica 20
+Bulgaria 20
+Denmark 19
+Greece 19
+Argentina 19
+Macau 18
+Jamaica 18
+Tanzania 18
+Belgium 18
+Cameroon 17
+Costa Rica 17
+Colombia 15
+Uganda 14
+Liberia 14
+Belize 13
+Finland 13
+Andorra 13
+Namibia 12
+Yemen 12
+Chile 12
+Mongolia 12
+Cuba 12
+Latvia 11
+Afghanistan 11
+Bahrain 10
+Curacao 10
+Mauritius 9
+Serbia 9
+Ukraine 9
+Portugal 9
+Liechtenstein 8
+Lithuania 8
+Slovenia 8
+Bahamas 7
+Palau 7
+Seychelles 7
+Sri Lanka 7
+Croatia 7
+Uruguay 7
+Paraguay 6
+Botswana 6
+Guinea 6
+Pakistan 5
+Congo 5
+Trinidad 5
+Saint Kitts 4
+Maldives 4
+Nepal 4
+Sierra Leone 4
+Fiji 4
+Zimbabwe 4
+Angola 4
+Dominican Republic 4
+Honduras 4
+Morocco 4
+Kyrgyzstan 4
+Gabon 3
+Malta 3
+Bangladesh 3
+Ecuador 3
+Benin 3
+Antigua 3
+Bosnia 3
+Iraq 3
+Estonia 3
+Sudan 3
+Burma 3
+Saint Lucia 2
+Laos 2
+Papua New Guinea 2
+Iceland 2
+Libya 2
+Somalia 2
+Brunei 2
+Rwanda 2
+Macedonia 1
+Haiti 1
+San Marino 1
+Barbados 1
+Kazakhstan 1
+Senegal 1
+Bhutan 1
+Antilles 1
+Togo 1
+Armenia 1
+Aruba 1
+Ethiopia 1
+Burkina Faso 1
+Luxembourg 1
+

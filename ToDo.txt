@@ -1,0 +1,49 @@
+Known Bugs:
+-----------
+1. Banks, websites, and countries searches are slow
+3. Bitcoin Addresses aren't all bitcoin addresses
+4. Index out of bounds error in ExtractData.ripWords() when dealing with large data
+5. Clean up money dictionary. If input comes in as $3,000,457.23dsfsfd...strip it to be $3000457.23. Right now if money comes in with values 
+   other than "$", digits, or "." it will screw up the program because its trying to convert that to a float in Output.descendingKey
+7. Parentheses are not being removed on some words () {} [] <> "" ''
+8. If just an @ or $ is found remove it from dictionaries
+9. Money values have random strings attatched to the end of the number (_x000D_)
+10. When alphabetizing emails by domain name...it works but emails that are all caps are treated seperately from noncap emails
+11. Output.descendingKey() and Output.descendingValue seem to be part of the problem with the searches being slow. Look into.
+
+Features to Add:
+----------------
+1. Toggle feature to turn off frequency values in summary data output
+2. Sort money dictionary by key in descending order. (Output.descendingKey())
+4. Add the ability to browse for file with browse button
+5. Loading bar while program is processing
+6. Desktop icon
+7. Ability to search a name and show all of the sars related to it 
+8. Better User Interface
+9. Add country adjectives to search list.
+
+Search Times:
+-------------------------------------
+
+5,308 sars:
+--------------------
+
+Money: 6.05 seconds
+Banks: 46.08 seconds
+Credit/Debit Cards: 5.21 seconds
+Bitcoin addresses: 5.53 seconds
+Emails: 5.9 seconds
+Websites: 13+ minutes
+IP Addresses: 5.45 seconds
+Countries: 14.8 seconds
+
+Just Banks and Countries: 54.44
+All but Banks, Websites, and Countries: 8.43 seconds
+All but Banks and Websites: 17.06 seconds
+All but Websites: 58.00 seconds
+
+
+
+
+
+
